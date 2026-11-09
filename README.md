@@ -86,7 +86,7 @@ Conquistar minha primeira oportunidade como **dev júnior ou estagiário** em de
 
 Você pode me encontrar em:
 
-<a href="https://www.linkedin.com/bernardo12"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="https://www.linkedin.com/in/bernardo12"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 💼
 
 <a href="mailto:be.srodrigues24@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
