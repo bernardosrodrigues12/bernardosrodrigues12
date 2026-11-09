@@ -13,7 +13,11 @@ Meu foco atual é aplicar **LLMs em produtos reais** — da integração conscie
 [Repositório](https://github.com/bernardosrodrigues12/medidor-custo)
 Ferramenta que mede o custo-benefício de APIs de LLM: registra tokens, custo e latência por chamada em CSV, comparando dois modelos em custo e qualidade das respostas. Refatorado em funções modularizadas, com tratamento de erros de rate limit e timeout e suíte de 20 chamadas de teste.
 
-`TypeScript` `Node.js` `APIs de LLMs`
+<div style="display: inline_block"></br>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="APIs de LLMs" src="https://img.shields.io/badge/APIs_de_LLMs-412991?style=for-the-badge">
+</div>
 
 
 ## 🚀 Minhas Habilidades: 
